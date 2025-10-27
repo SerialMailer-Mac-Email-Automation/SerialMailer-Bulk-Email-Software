@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ummrabiaenza8751.github.io/.github/serialmailer">  
+<a href="https://dawnanao5708.github.io/.github/serialmailer">  
 <img src="https://img.shields.io/badge/GET_SerialMailer-darkgreen?style=for-the-badge&logo=apple" alt="GET SerialMailer">  
 </a>  
 </div>  
